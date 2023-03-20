@@ -9,5 +9,6 @@ public class Main {
         }
 
         System.out.println("Version 3 New update from GitHub");
+        System.out.println("Version 4 New update from GitHub");
     }
 }
